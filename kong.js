@@ -88,7 +88,7 @@ const Y_ATTENUATOR = 0.25;
 /** @type {string} IMAGE If this is an image component, set to "image" */
 const IMAGE = "image";
 /** @type {string} barrel_IMG The name of the image file for the barrel */
-const barrel_IMG = "barrel.png";
+const barrel_IMG = "Barrel.png";
 /** @type {string} PADDLE_IMG The name of the image file for the paddle */
 const PADDLE_IMG = "mario.png";
 /** @type {string} LADDER_IMG The name of the image file for the ladders */

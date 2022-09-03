@@ -1,6 +1,7 @@
 # Welcome to my Donkey Kong style game
 
 To start playing my version of Donkey Kong run the kong.html file.
+Or go to this live [link](https://cpage33.github.io/Dk_Game/kong.html)
 
 To move use the left and right arrow keys 
 
